@@ -9,7 +9,7 @@
 | #  | **_Cognoms_**     | **_Nom_** | **_Dashboard_**                                   | **_Web_**                                                  | **_Web_**                                    |
 | 1  | Adaardour Majdi   | Amin      | [uhcv](https://github.com/uhcv)                   | [uhcv.github.io](https://uhcv.github.io)                   | [PiBlock](http://piblock.cat)
 | 2  | Calzada Espert    | Miquel    | [MiquelCalzada](https://github.com/MiquelCalzada) | [MiquelCalzada.github.io](https://MiquelCalzada.github.io) |
-| 3  | Cruz Roura        | Roger     | [rogercrro](https://github.com/rogercrro)         | [rogercrro.github.io](https://rogercrro.github.io)         |
+| 3  | Cruz Roura        | Roger     | [rogercrro](https://github.com/rogercrro)         | [rogercrro.github.io](https://rogercrro.github.io)         | [LocalSDR](http://localsdr.cat)
 | 4  | El Majjaoui       | Hanae     | [hannae123](https://github.com/hannae123)         | [hannae123.github.io](https://hannae123.github.io)         | [NeoDrop](http://neodrop.cat)
 | 5  | Fernandez Montoya | Josep     | [tutevinho](https://github.com/tutevinho)         | [tutevinho.github.io](https://tutevinho.github.io)         |
 | 6  | Gagliano Rodriguez| Lucas     | [LGZV1](https://github.com/LGZV1)                 | [LGZV1.guithub.io](https://LGZV1.github.io)                | [NeoDrop](http://neodrop.cat)
